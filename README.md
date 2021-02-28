@@ -26,7 +26,7 @@ pip install requests beautifulsoup4
 
 Your can add multiple accounts with single space separated.
 
-## 说明
+说明
 
 因各种原因，本仓库不提供任何定时运行脚本，本脚本可以在本地运行，如果想要自己配置到云函数平台上可自行配置。劝各位耗子尾汁，**请不要Fork这个仓库然后提供GitHub Workflow再分发，也不要提供任何单仓库Workflow并分发，特别是定时执行确定的那种。谢谢。**
 
